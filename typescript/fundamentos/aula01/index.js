@@ -2,5 +2,5 @@ const soma = (a, b) => {
     console.log(a + b)
 }
 
-soma(8,9)
-soma("Samuel ", "Oliveira")
+soma(5, 5)
+soma('Samuel ', 'Oliveira')
